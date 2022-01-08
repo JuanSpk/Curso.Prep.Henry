@@ -1,0 +1,17 @@
+for: El bucle "for" se utiliza para repetir la misma accion las veces que sean necesarias, hasta que por
+algun motivo o condicion espesificada, este finalice. Por ejemplo: Si deseamos que un robot suba una 
+escalera, hacemos un bucle con la accion repetitiva de subir un escalon hasta que este llegue al ultimo, 
+el bucle for se ejecutará hasta que el robot llega al ultimo escalon.
+
+&&: quiere decir "y", se denomina operador lógico y sirve para analizar dos condiciones o más, si ambas son
+verdaderas se ejecutara lo que contiene adentro. Por ejemplo: La maestra nos dice que si tenemos la tarea 
+terminada "y" no tenemos dudas acerca del tema, podremos salir al recreo. Esto quiere decir que, si ambas 
+condiciones son verdaderas, solo en ese caso podremos salir al recreo.
+
+||: Operador "or" (o), tambien es un operador logico, y se evaluan dos o más condiciones, donde si solo una
+es verdadera se ejecutara lo que tengamos dentro del bloque. Por ejemplo: La maestra dice que, si tenemos
+la tarea hecha "o" el parcial aprobado, podremos tomarnos vacaciones. Es decir si cualquiera de ambas
+condiciones son verdaderas, podremos ir de vacaciones. 
+
+!: Operador logico "not" (no): Este operador nos devuelve Falso si la condicion es verdadera. Por ejemplo:
+si 2 + 2 = 4 (lo cual es verdadero) la funcion nos devolvera "falso".
