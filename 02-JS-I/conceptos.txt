@@ -15,4 +15,5 @@ igual aunque no podriamos frenar, asi como podriamos sacarlos y ponerlos en otra
 If: (si) Se usa para poner condiciones o tomar deciciones, por ejemplo: "Si" me voy de casa, cierro la puerta.
 "Si" me subo a la bicicleta, me pongo el casco. "Si" mañana es domingo, apagar despertador.
 
-Valores booleanos: Es un valor que nos indica si algo es verdadero o falso.
+Valores booleanos: Es un valor que nos indica verdadero o falso. Por ejemplo: 2 + 2 = 4 (verdadero)
+2 + 5 = 8 (falso)
