@@ -1,0 +1,4 @@
+Array: Los arrays son como esos muebles de ficheros que contienen carpetas con indices en cada cajon, sirven
+para guardar datos e información. Solo tenemos que ver el nombre del cajon y escojer la carpeta deseada. Cada 
+array vendría a ser un cajon con casilleros o carpetas.
+ 
