@@ -103,7 +103,7 @@ function promedioResultadosTest(resultadosTest) {
   }
   let promedio = sum / resultadosTest.length;
   return (promedio);
-}
+} 
 
 
 function numeroMasGrande(numeros) {

@@ -1,0 +1,20 @@
+Objetos: Los objetos son contenedores de información, a diferencia de los arrays, estos almacenan información 
+de un solo tema en particular. Por ejemplo, podemos crear un usuario y almacenar todos sus datos personales.
+
+Propiedades: Las propiedades son como casilleros donde podemos almacenar datos, cada casillero contiene un
+nombre (clave)con el cual podemos acceder a su contenido, este contenido se llama valor y podemos acceder a el 
+desde cualquier parte del programa.
+
+Métodos: Una funcion es la parte de un programa que ejecuta una tarea. Los métodos son funciones que se 
+encuentran dentro de los objetos, recordando a los objetos como contenedores. Podemos utilizar estos
+métos en cualquier parte del programa con tan solo llamarlos. 
+
+Bucle `for…in`: Sirve para recorrer todos los casilleros (propiedades) de un objeto. 
+
+Notación de puntos vs notación de corchetes: Cuando necesitamos acceder a una propiedad alojada en un objeto
+usamos notación de puntos o notación de corechetes, esto para indicar al programa donde está ubicado el
+elemento que queremos usar. El primer termino corresponde al objeto donde esta alojado el elemento o 
+propiedad, unido por un punto ('notación de punto') con nombre o clave que contiene el valor de dicha propiedad.
+En otras palabras, el primer termino corresponde a la caja y el segundo a su casillero. La notación de 
+corchetes es practicamente lo mismo, se puede usar con variables y se escribe, primero el nombre del objeto
+seguido por el nombre de la clave entre corchetes. 
