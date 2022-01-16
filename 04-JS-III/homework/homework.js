@@ -143,7 +143,6 @@ function cuentoElementos(arreglo){
     }
   }
   return contador
-
 }
 
 
@@ -169,7 +168,6 @@ function empiezaConNueve(n) {
     return true
   }
   return false
-  
 }
 
 
