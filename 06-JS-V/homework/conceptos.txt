@@ -1,0 +1,9 @@
+prototype: Es un objeto el cual nos permite reutilizar codigo, es decir es un lugar donde podemos guardar 
+los metodos o propiedades que nosotros hemos creado o guardado y que comparten ciertas características con 
+algun objeto en particular. Por ejemplo: En una función de crear usuarios podemos tener un metodo de 
+prototipo con todos los campos a rellenar donde por parametro solo pasamos los valores de cada campo, este
+metodo a su vez puede tener funciones que se ejecutan con los datos ingresados.
+
+Constructor: Es un metodo que se utiliza para crear e inicializar las propiedades de una clase o función 
+constructora. No se como explicarle a un chico de 12 años. 
+
