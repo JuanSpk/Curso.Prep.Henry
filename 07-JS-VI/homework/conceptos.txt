@@ -1,0 +1,3 @@
+Funciones Callback: Una función de callback es una función que se pasa a otra función como un argumento. Es
+decir por ejemplo tenemos un robot con una funcion que es caminar, esta funcion tiene un enlace que nos permite
+usar otra funcion que es saltar, pasandole algunos argumentos como por ejemplo la distancia que debe saltar.
